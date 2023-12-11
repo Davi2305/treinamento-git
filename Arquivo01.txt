@@ -1,6 +1,6 @@
-
+:D
 Linha 2 inserida on-line
-
+Alteração por minha conta
 
 Linha 4 inserida on-line
 
@@ -8,5 +8,5 @@ Linha 4 inserida on-line
 Mudei
 Linha 2 inserida on-line
 Alterei
-
+Olá mundo!
 Editei
